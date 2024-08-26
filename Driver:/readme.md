@@ -6,7 +6,9 @@ discuss:
 # Driver:
 sch: https://www.google.com/search?q=Magic+Control+Technology+ubuntu
 
-Download:
+discuss: https://ubuntuforums.org/showthread.php?t=2468365
+
+## Download:
 https://www.mct.com.tw/download.php?lang=en&tb=1
 
 # Relation: Upstream source
