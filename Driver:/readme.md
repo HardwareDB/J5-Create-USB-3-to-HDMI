@@ -8,3 +8,6 @@ sch: https://www.google.com/search?q=Magic+Control+Technology+ubuntu
 
 Download:
 https://www.mct.com.tw/download.php?lang=en&tb=1
+
+# Relation: Upstream source
+https://github.com/DisplayLink/evdi
